@@ -12,7 +12,7 @@ package javaapplication1;
 public class JavaApplication1 {
 
     public int add (int a ,int b ){
-        return a+b+6; /*fait une addition */
+        return a+b+6*15; /*fait une addition */
     }
 
         
