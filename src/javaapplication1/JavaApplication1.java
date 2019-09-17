@@ -16,7 +16,7 @@ public class JavaApplication1 {
     }
      static int  LOL;
      int marche=100;
-    /* hihihiihihihihihi**/
+
         
     /**
      * @param args the command line arguments
