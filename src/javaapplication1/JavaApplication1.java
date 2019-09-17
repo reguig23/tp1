@@ -15,7 +15,8 @@ public class JavaApplication1 {
         return a+b+6*15; /*fait une addition */
     }
      static int  LOL;
-     int marche=100;
+     int marche=19;
+     
     /* hihihiihihihihihi**/
         
     /**
